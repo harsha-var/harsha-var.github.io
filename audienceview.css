@@ -1,0 +1,40 @@
+body{
+   background-color:red;
+   }
+   /* TO REMOVE THE BULLET PINS*/
+.nav ul{
+    margin:0px;
+    padding:0px;
+    list-style:none;
+   /* position:fixed*/
+    
+  }
+  /*HOW SHUD IT LOOK INSIDE*/
+  .nav li{
+    opacity:.8 ;
+    line-height:40px;
+    text-align:center;
+    font-size:20px;
+    display:inline;
+  }
+ /* THE WIDTH BOX ,DISPLAY TYPE,SIZE*, font */ 
+  .nav li a {
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    color:white;
+    }
+    /*WHEN MOUSE BROUGHT THERE WHAT TO DO*/
+ .nav a:hover{
+  background:green;
+  }
+  h1{
+    color:burlywood;
+  }
+    p{
+      color:burlywood;
+      font-size:20px;
+    }
+    .video{
+        position:center;
+    }
