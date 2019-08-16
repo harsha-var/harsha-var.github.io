@@ -83,11 +83,11 @@ background-color:black;
  }
   .content{
     background-color: rgba(50, 115, 220, 0.3);
-    width:915px;
-    height:1800px;
+    width:905px;
+    height:2150px;
     position: absolute;
     top:450px;
-    left:325px;
+    left:205px;
   }
   .content h1{
     background-color:black;
